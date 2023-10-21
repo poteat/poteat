@@ -1,4 +1,1 @@
-
-![logo](./poteat-blue.png)
-
-**Check out my [LinkedIn profile](https://www.linkedin.com/in/mpoteat-o/) and my [personal website](https://code.lol)!**
+Enter: [`code.lol`](https://code.lol)
