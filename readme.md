@@ -1,1 +1,1 @@
-Enter: [`code.lol`](https://code.lol)
+enter: [`code.lol`](https://code.lol)
